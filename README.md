@@ -1,4 +1,4 @@
 # first-session
 first session about internship
 <br>
-at alpha tech
+at alpha tech(18)
